@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - teking argument
  *
  * Return: 0
